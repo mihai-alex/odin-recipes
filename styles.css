@@ -1,0 +1,33 @@
+html {
+    background-color:aliceblue;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 125)
+}
+
+ul,
+ol {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    border-radius: 8px;
+}
+
+a:link {
+    color: rgb(225, 0, 0);
+}
+
+a:visited {
+    color: rgb(125, 0, 125);
+}
+
+a:hover {
+    color:rgb(0, 0, 225)
+}
